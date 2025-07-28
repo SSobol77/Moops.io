@@ -2,9 +2,12 @@
 
 <img width="1536" height="1024" alt="moops" src="https://github.com/user-attachments/assets/ee09050a-8563-49eb-b103-336167362e47" />
 
+<p align="center"> <a href="https://github.com/SSobol77/Moops.io"> <img alt="Repo stars" src="https://img.shields.io/github/stars/SSobol77/Moops.io?style=flat-square"> </a> <a href="https://github.com/SSobol77/Moops.io/releases"> <img alt="Release" src="https://img.shields.io/github/v/release/SSobol77/Moops.io?color=orange&style=flat-square"> </a> <a href="https://huggingface.co/spaces/Siergej/Moops"> <img alt="HF Spaces" src="https://img.shields.io/badge/demo-huggingface-%23ffb3ff?logo=huggingface&style=flat-square"> </a> <a href="https://github.com/SSobol77/Moops.io/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/SSobol77/Moops.io?color=brightgreen&style=flat-square"> </a> <a href="https://www.python.org/"> <img alt="Python Versions" src="https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue.svg?style=flat-square"> </a> <a href="https://gradio.app/"> <img alt="Gradio" src="https://img.shields.io/badge/ui-gradio-8d3ee6?logo=gradio&logoColor=white&style=flat-square"> </a> </p>
+
 <br>
 
 # 🛍️ Moops CRM Assistant - All‑in‑One
+
 
 <br>
 
