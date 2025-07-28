@@ -96,7 +96,9 @@ The app will launch at **[http://localhost:7860](http://localhost:7860)**.
 
 ```
 .
-├── app.py        # Main Gradio application
+├── docs/
+|   └── USER_MANUAL.md
+├── app.py                   # Main Gradio application
 ├── faq.md                   # Default FAQ (Markdown)
 ├── orders.db                # SQLite database (auto-created)
 ├── requirements.txt         # Python dependencies
