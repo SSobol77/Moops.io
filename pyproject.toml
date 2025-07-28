@@ -1,0 +1,21 @@
+[project]
+name = "moops"
+version = "0.1.0"
+description = "Gradio chatbot powered by Hugging Face Inference API"
+requires-python = ">=3.11"
+
+dependencies = [
+    "gradio>=4.16",
+    "huggingface_hub>=0.22.2",
+    "python-dotenv",
+    "pandas",
+    "huggingface_hub>=0.22.2",
+    "tabulate"
+]
+
+[tool.setuptools]
+py-modules = []  
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
