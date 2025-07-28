@@ -1,3 +1,9 @@
+
+
+<img width="1536" height="1024" alt="moops" src="https://github.com/user-attachments/assets/ee09050a-8563-49eb-b103-336167362e47" />
+
+<br>
+
 # 🛍️ Moops CRM Assistant - All‑in‑One
 
 <br>
